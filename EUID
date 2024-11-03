@@ -1,2 +1,0 @@
-echo '## EUID' >> README.md
-echo $YOUR_EUID >> README.md
